@@ -21,12 +21,9 @@
     HTML
     · Vue
     · Angular
-    PHP
   </em>
   <br>
   <em>
-    GraphQL
-    · Markdown
-    · YAML
+    PHP
   </em>
 </p>
