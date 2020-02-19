@@ -5,22 +5,14 @@
 <p>
   <em>
     JavaScript
-    · TypeScript
-    · Flow
-    · JSX
-    · JSON
   </em>
   <br>
   <em>
     CSS
-    · SCSS
-    · Less
   </em>
   <br>
   <em>
     HTML
-    · Vue
-    · Angular
   </em>
   <br>
   <em>
