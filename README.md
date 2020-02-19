@@ -1,4 +1,4 @@
-# Prettier Formatter for Visual Studio Code
+# Prettier-PHP Formatter for Visual Studio Code
 
 [Prettier]Fork of original (https://prettier.io/) with PHP-plugin included.
 

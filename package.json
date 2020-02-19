@@ -2,14 +2,14 @@
     "name": "prettier-php",
     "displayName": "Prettier-php - Code formatter",
     "description": "Code formatter using prettier including php-plugin",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "karye",
     "author": "Karye",
     "galleryBanner": {
         "color": "#ffe04b",
         "theme": "light"
     },
-    "homepage": "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode",
+    "homepage": "https://marketplace.visualstudio.com/items?itemName=karye.prettier-php-vscode",
     "repository": {
         "type": "git",
         "url": "https://github.com/karye/prettier-php-vscode.git"
