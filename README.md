@@ -2,7 +2,7 @@
 
 [Prettier]Fork of original (https://prettier.io/) with PHP-plugin included.
 
-<p align="center">
+<p>
   <em>
     JavaScript
     · TypeScript
@@ -10,20 +10,20 @@
     · JSX
     · JSON
   </em>
-  <br />
+  <br>
   <em>
     CSS
     · SCSS
     · Less
   </em>
-  <br />
+  <br>
   <em>
     HTML
     · Vue
     · Angular
     PHP
   </em>
-  <br />
+  <br>
   <em>
     GraphQL
     · Markdown

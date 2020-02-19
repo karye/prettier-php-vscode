@@ -1,10 +1,10 @@
 {
-  "name": "prettier-vscode",
-  "displayName": "Prettier - Code formatter",
-  "description": "Code formatter using prettier",
-  "version": "3.20.0",
-  "publisher": "esbenp",
-  "author": "Prettier <@prettiercode>",
+  "name": "prettier-php",
+  "displayName": "Prettier-php - Code formatter",
+  "description": "Code formatter using prettier including php-plugin",
+  "version": "0.0.1",
+  "publisher": "karye",
+  "author": "Karye",
   "galleryBanner": {
     "color": "#ffe04b",
     "theme": "light"
@@ -12,11 +12,11 @@
   "homepage": "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode",
   "repository": {
     "type": "git",
-    "url": "https://github.com/prettier/prettier-vscode.git"
+    "url": "https://github.com/karye/prettier-php-vscode.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/prettier/prettier-vscode/issues"
+    "url": "https://github.com/karye/prettier-php-vscode/issues"
   },
   "engines": {
     "vscode": "^1.34.0"
